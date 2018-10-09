@@ -1,3 +1,11 @@
-# codeacademy-code-own-adventure
+# Codeacademy Code Your Own Adventure Game
+Code Your Own Adventure Game project from Codeacademy JavaScript section. Made with HTML and JavaScript.
 
-Code Your Own Adventure Game project from Codeacademy JavaScript section.
+## Instructions
+Clone or download zip file. Open index.html file in your browser.
+
+## Contributing
+This repository is based on starter code from Codeacademy. Therefore I will not be accepting any pull requests.
+
+## Acknowledgements
+* Codeacademy
