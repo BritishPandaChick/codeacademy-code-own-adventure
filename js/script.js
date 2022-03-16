@@ -10,7 +10,7 @@ if(age < 13) {
 console.log("You are at Justin Bieber concert, and you hear this lyric 'Lace my shoes off, star racing.'");
 console.log("Suddenly, Bieber stops and says, 'Who wants to race me?'");
 
-var userAnswer = prompt("Do you want to race Biber on strage?");
+var userAnswer = prompt("Do you want to race Bieber on strage?");
 
 if(userAnswer === "yes") {
   console.log("You and Bieber start racing. It's neck and neck! You win by a shoelace!");
