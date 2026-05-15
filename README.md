@@ -1,11 +1,14 @@
 # Codecademy Code Your Own Adventure Game
-Code Your Own Adventure Game project from Codecademy JavaScript section.
+Race against Justin Bieber game from Codecademy JavaScript section.
+
+## Tech Stack
+- HTML
+- JavaScript
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on starter code from Codecademy. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
+3. A pop up window will appear on the page and begin to ask questions. It will ask you your age, if you want to race Justin Bieber on stage, and feedback. For the age, type your age. When you are asked if you wan to race, put yes or no. When you are asked for feedback, put a number between 1-10.
 
 ## Acknowledgements
 * Codecademy
